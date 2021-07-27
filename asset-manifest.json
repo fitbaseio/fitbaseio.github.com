@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fitbaseio.github.com/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/fitbaseio.github.com/static/js/main.cb8f788f.chunk.js",
-    "main.js.map": "/fitbaseio.github.com/static/js/main.cb8f788f.chunk.js.map",
-    "runtime-main.js": "/fitbaseio.github.com/static/js/runtime-main.850d685e.js",
-    "runtime-main.js.map": "/fitbaseio.github.com/static/js/runtime-main.850d685e.js.map",
-    "static/js/2.922ec7fb.chunk.js": "/fitbaseio.github.com/static/js/2.922ec7fb.chunk.js",
-    "static/js/2.922ec7fb.chunk.js.map": "/fitbaseio.github.com/static/js/2.922ec7fb.chunk.js.map",
-    "static/js/3.4c757cc5.chunk.js": "/fitbaseio.github.com/static/js/3.4c757cc5.chunk.js",
-    "static/js/3.4c757cc5.chunk.js.map": "/fitbaseio.github.com/static/js/3.4c757cc5.chunk.js.map",
-    "index.html": "/fitbaseio.github.com/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/fitbaseio.github.com/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.922ec7fb.chunk.js.LICENSE.txt": "/fitbaseio.github.com/static/js/2.922ec7fb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fitbaseio.github.com/static/media/logo.6ce24c58.svg"
+    "main.css": "/fitbaseio.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/fitbaseio.github.io/static/js/main.cb8f788f.chunk.js",
+    "main.js.map": "/fitbaseio.github.io/static/js/main.cb8f788f.chunk.js.map",
+    "runtime-main.js": "/fitbaseio.github.io/static/js/runtime-main.a3c4b4d2.js",
+    "runtime-main.js.map": "/fitbaseio.github.io/static/js/runtime-main.a3c4b4d2.js.map",
+    "static/js/2.922ec7fb.chunk.js": "/fitbaseio.github.io/static/js/2.922ec7fb.chunk.js",
+    "static/js/2.922ec7fb.chunk.js.map": "/fitbaseio.github.io/static/js/2.922ec7fb.chunk.js.map",
+    "static/js/3.4c757cc5.chunk.js": "/fitbaseio.github.io/static/js/3.4c757cc5.chunk.js",
+    "static/js/3.4c757cc5.chunk.js.map": "/fitbaseio.github.io/static/js/3.4c757cc5.chunk.js.map",
+    "index.html": "/fitbaseio.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/fitbaseio.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.922ec7fb.chunk.js.LICENSE.txt": "/fitbaseio.github.io/static/js/2.922ec7fb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fitbaseio.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.850d685e.js",
+    "static/js/runtime-main.a3c4b4d2.js",
     "static/js/2.922ec7fb.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.cb8f788f.chunk.js"
